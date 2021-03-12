@@ -17,9 +17,9 @@
 //     console.log (`Selamat datang di Dunia Proxytia, ${nama}. Halo ${peran} ${nama}, ciptakan keajaiban yang membantu kemenanganmu!`);
 // }
 
-let tanggal = 31
+let tanggal = 3
 let bulan = 3
-let tahun = 1996
+let tahun = 2001
 
 if(
     (bulan == 1,3,5,7,8,10,12 && tanggal>31)||
